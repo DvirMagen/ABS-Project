@@ -1,0 +1,9 @@
+[submodule "ABS-Engine"]
+	path = ABS-Engine
+	url = git@github.com:DvirMagen/ABS-Engine.git
+[submodule "ABS-Admin_App"]
+	path = ABS-Admin_App
+	url = git@github.com:DvirMagen/ABS-Admin_App.git
+[submodule "ABS-Client_App"]
+	path = ABS-Client_App
+	url = git@github.com:DvirMagen/ABS-Client_App.git
